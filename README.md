@@ -39,7 +39,7 @@ Play the classic arcade game with a retro feel, including bounce and score sound
 This project is licensed under the [MIT License](https://github.com/AndreyWinz/pong-sound/blob/main/LICENSE)
 
 ## P.S.
-I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! Stay tuned for more!
+I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username so I can give you a shout-out in the next repository. Stay tuned for more!
 
 This is my Revolut Payment Link:
-[Thank you so much!]()
+[Thank you so much!](https://revolut.me/andreygdl9)
