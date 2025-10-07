@@ -3,7 +3,7 @@
 A simple Pong game built in Python with sound effects.  
 Play the classic arcade game with a retro feel, including bounce and score sounds.  
 
-![Preview](preview.png)
+![Preview](preview1.png)
 
 ## 🎮 Features
 - Player vs AI Pong gameplay (AI paddle tracks the ball automatically)  
