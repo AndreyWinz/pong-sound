@@ -17,7 +17,7 @@ Play the classic arcade game with a retro feel, including bounce and score sound
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pong-sound.git
+   git clone https://github.com/AndreyWinz/pong-sound.git
    cd pong-sound
 
 2. Install dependencies:
