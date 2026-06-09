@@ -1,4 +1,5 @@
 # Pong with Sound
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 A simple Pong game built in Python with sound effects.  
 Play the classic arcade game with a retro feel, including bounce and score sounds.  
